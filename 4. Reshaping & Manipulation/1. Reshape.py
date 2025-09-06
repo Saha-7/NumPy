@@ -1,5 +1,7 @@
 """
-Changing the dimension of the array
+Changing the dimension of the array.
+
+Affect the oriinal Array.
 """
 
 import numpy as np
